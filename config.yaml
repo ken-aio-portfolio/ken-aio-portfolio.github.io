@@ -231,6 +231,47 @@ params:
           システムの基礎知識を学ぶ。<br>
           <br>
 
+      - job: "フルスタックエンジニア"
+        company: "副業"
+        #companyUrl: "https://www.tss-j.co.jp/"
+        date: "2009-07 - 現在"
+        content: |
+          2009/07 - 2014/04 Sovaにてアプリ開発<br>
+          大学の友人と一緒に計3人でアプリ開発チームSovaを結成。<br>
+          チーム内の役割は開発全般。<br>
+          以下の技術を用いて様々なアプリを開発。<br>
+          代表的なアプリがCircleBoard。<br>
+          その他、以下の技術を用いてアプリ開発を行った。<br>
+          - Titanium Mobile<br>
+          - Cordova<br>
+          - Ionic<br>
+          - BackboneJS<br>
+          - AngularJS<br>
+          - Ruby on Rails<br>
+          <br>
+          2015/05 - 2019/04 某チームにてWebアプリ開発<br>
+          TISの同期に誘われて物販業者向けの業務効率化ツールのWebサービスを開発<br>
+          Web/サーバサイト/インフラ/運用の全てを1人で開発<br>
+          以下の技術を用いて業務システムを構築<br>
+          - jQuery<br>
+          - Ruby on Rails<br>
+          - Redis<br>
+          <br>
+          その後、以下の技術を用いて業務システムリニューアルを実施<br>
+          - Angular<br>
+          - Golang / echo<br>
+          - Redis<br>
+          - SQLBoiler<br>
+          <br>
+          2019/05 - 現在 個人事業主向けに業務効率化ツールの開発<br>
+          Web/サーバサイト/インフラ/運用の全てを1人で開発<br>
+          以下の技術を用いて業務効率化ツールを開発<br>
+          - Angular<br>
+          - Golang / echo / gqlgen (GraphQL)<br>
+          - Redis<br>
+          - Docker<br>
+          <br>
+
   # Education
   education:
     enable: true
